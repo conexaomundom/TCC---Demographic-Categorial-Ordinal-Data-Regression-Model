@@ -12,4 +12,4 @@ negatively influences the Average Salary. Therefore, it can be concluded that th
 salary difference between the genders in the state of Para´ıba, the average salary for women
 is 0.5951 times the average salary for men.
 
-Key-words:Regression, Ordinal Logistic Regression, Average salary, Salary Difference, Gender.
+Key-words:Regression, Ordinal Logistic Regression, Average salary, Salary Difference, Gender.
